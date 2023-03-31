@@ -1,0 +1,24 @@
+body {
+    background-color: lavender;
+  }
+
+  #Heading{
+    color: #0c5151; 
+  }
+
+  h3{
+    color:royalblue;
+     }
+
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+  }
+  h1{
+    color: royalblue;
+  }
+
+ 
